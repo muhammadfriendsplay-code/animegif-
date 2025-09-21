@@ -14,7 +14,9 @@ GIFs are always Anime excpet if said otherwise.
 
 /slap - slap someone
 
-/hangman - improvements happening
+/hangman - play a hangman game - works in dms only - random words only
+
+/hangmanguild - play hangman in a server! You may also choose your word!
 
 /jokes - get a joke form teh bot
 
