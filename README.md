@@ -6,67 +6,73 @@ This bot is under development! Name may change!
 
 Have a fun bot that can send anime gifs and play games such as hangman! Can also say jokes!!!
 
+GIFs are always Anime excpet if said otherwise.
+
 
 # Featured Commands:
 
 
-/slap
+/slap - slap someone
 
 /hangman - improvements happening
 
-/jokes
+/jokes - get a joke form teh bot
 
-/unoreverse
+/rps -- play rock paper scissors
 
-/secret
+/unoreverse - reverse (:<
+
+/secret -- ???
 
 
 
 # Current commands:
 
 
-/sixseven
+/sixseven -- 67 gif - random
 
 
-/fortyone
+/fortyone -- 41 gif - random
 
 
-/animegm
+/animegm -- Good Morning Anime gif - random
 
-/animegn
+/animegn - Good Night Anime gif - random
 
-/gm
+/gm -- Good Morning gif - random
 
-/gn
+/gn -- Good Night gif - random
 
-/kill
+/kill -- Death Threath gif - random (please use this playfully if both parties are fine with this)
 
-/goofy
+/goofy -- Goofy gif - random
 
-/brothereww
+/brothereww - Brother Eww gif - random
 
-/uwu
+/uwu -- UwU gif - random
 
-/anime
+/anime -- Anime gif - random
 
-/what
+/what -- What? gif - random
 
-/amazed
+/amazed -- Amazed gif - random
 
-/scared
+/scared -- Scared gif - random
 
-/happy
+/happy - Happy gif - random
 
-/annoyed
+/annoyed -- Annoyed gif - random
 
-/mad
+/mad -- Mad gif - random
 
-/sad
+/sad -- Sad gif - random
 
-/laugh
+/laugh -- Laugh gif - random
 
-/depressed
+/depressed -- Depressed gif - random
 
-/seriously
+/seriously -- Seriously? gif - random
 
-/dissapointed
+/dissapointed -- Dissapointed gif - random
+
+/ineedcoffee -- Good Morning, I Need Coofee - Cat
