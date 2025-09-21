@@ -1,5 +1,5 @@
 # AnimeGIF+
-# AnimeGIF+ Discord Bot Github Repo
+### AnimeGIF+ Discord Bot Github Repo
 
 
 This bot is under development! Name may change!
