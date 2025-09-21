@@ -8,33 +8,57 @@ Have a fun bot that can send anime gifs and play games such as hangman! Can also
 
 Featured Commands:
 
+
 /slap
 /hangman - improvements happening
 /jokes
 /unoreverse
 /secret
 
+
 Current commands:
 
+
 /sixseven
+
 /fortyone
+
 /animegm
+
 /animegn
+
 /gm
+
 /gn
+
 /kill
+
 /goofy
+
 /brothereww
+
 /uwu
+
 /anime
+
 /what
+
 /amazed
+
 /scared
+
 /happy
+
 /annoyed
+
 /mad
+
 /sad
+
 /laugh
+
 /depressed
+
 /seriously
+
 /dissapointed
