@@ -1,4 +1,4 @@
-# animegif+
+# AnimeGIF+
 # AnimeGIF+ Discord Bot Github Repo
 
 
