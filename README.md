@@ -27,6 +27,18 @@ GIFs are always Anime excpet if said otherwise.
 /secret -- ???
 
 
+#### Msuic?
+
+/createlisten
+
+/listen_invite
+
+/listen_start
+
+/listen_status
+
+/listen_cancel
+
 
 # Current commands:
 
