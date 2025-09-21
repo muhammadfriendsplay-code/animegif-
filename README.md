@@ -1,6 +1,6 @@
 # animegif+
 # AnimeGIF+ Discord Bot Github Repo
-====================================
+======
 
 This bot is under development! Name may change!
 
@@ -8,7 +8,7 @@ Have a fun bot that can send anime gifs and play games such as hangman! Can also
 
 
 # Featured Commands:
-========================
+======
 
 /slap
 /hangman - improvements happening
@@ -18,7 +18,7 @@ Have a fun bot that can send anime gifs and play games such as hangman! Can also
 
 
 # Current commands:
-=====================
+======
 
 /sixseven
 
