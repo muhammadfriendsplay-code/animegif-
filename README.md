@@ -11,10 +11,15 @@ Have a fun bot that can send anime gifs and play games such as hangman! Can also
 
 
 /slap
+
 /hangman - improvements happening
+
 /jokes
+
 /unoreverse
+
 /secret
+
 
 
 # Current commands:
