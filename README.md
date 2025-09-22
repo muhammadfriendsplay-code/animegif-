@@ -11,43 +11,40 @@ GIFs are always Anime excpet if said otherwise.
 
 # Featured Commands:
 
+/leaderboard -- View the leaderboard?
 
-/slap - slap someone
+/slap -- slap someone
 
-/hangman - Play a Hangman game - Random words (better as chosen word may be easily cheated to get)!
+/hangman -- Play a Hangman game - Random words (better as chosen word may be easily cheated to get)!
 
-/hangmanguild - Play Hangman in a Server! You may also choose your word!
+/hangmanguild -- Play Hangman in a Server! You may also choose your word!
 
-/jokes - get a joke form teh bot
+/jokes -- get a joke form teh bot
 
 /rps -- play rock paper scissors
+
+/blackjack - Play a blackjack game with others!!!
+
+/twentyquestions -- You have 20 questions to guess a word!!!
+
+/stats -- view stats
+
+/daily -- Claim daily!
 
 /unoreverse - reverse (:<
 
 /secret -- ???
 
+/addme -- Add the bot!
 
-#### Msuic?
-
-/createlisten
-
-/listen_invite
-
-/listen_start
-
-/listen_status
-
-/listen_cancel
-
+/repo -- Get the link to this repo!!!
 
 # Current commands:
 
 
 /sixseven -- 67 gif - random
 
-
 /fortyone -- 41 gif - random
-
 
 /animegm -- Good Morning Anime gif - random
 
@@ -90,3 +87,9 @@ GIFs are always Anime excpet if said otherwise.
 /dissapointed -- Dissapointed gif - random
 
 /ineedcoffee -- Good Morning, I Need Coofee - Cat
+
+/nice -- Nice! gif - random
+
+/lol -- LOOOOL gif - random
+
+/cool -- Cool 😎 gif - random
