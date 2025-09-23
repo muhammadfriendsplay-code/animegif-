@@ -11,7 +11,7 @@ GIFs are always Anime excpet if said otherwise.
 
 # Featured Commands:
 
-/dashboard -- Upcoming
+/dashboard -- Ban, Timeout or Remove coins from player
 
 /leaderboard -- View the leaderboard?
 
