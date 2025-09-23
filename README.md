@@ -39,6 +39,15 @@ GIFs are always Anime excpet if said otherwise.
 
 # Current commands:
 
+
+/bruh -- ...BRUH gif - random
+
+/bye -- Bye gif - random
+
+/hi -- Hi gif - random
+
+/yes -- YES gif - random
+
 /unoreverse - reverse (:<
 
 /secret -- ???
