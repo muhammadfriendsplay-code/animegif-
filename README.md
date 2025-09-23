@@ -21,7 +21,7 @@ GIFs are always Anime excpet if said otherwise.
 
 /jokes -- get a joke form teh bot
 
-/rps -- play rock paper scissors
+/rps -- play rock paper scissors -> gives coins
 
 /blackjack - Play a blackjack game with others!!! -> Gives coins
 
