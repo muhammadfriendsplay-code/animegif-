@@ -11,6 +11,8 @@ GIFs are always Anime excpet if said otherwise.
 
 # Featured Commands:
 
+/dashboard -- Upcoming
+
 /leaderboard -- View the leaderboard?
 
 /slap -- slap someone
