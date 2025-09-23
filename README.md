@@ -15,25 +15,23 @@ GIFs are always Anime excpet if said otherwise.
 
 /slap -- slap someone
 
-/hangman -- Play a Hangman game - Random words (better as chosen word may be easily cheated to get)!
+/hangman -- Play a Hangman game - Random words (better as chosen word may be easily cheated to get)! -> Gives coins
 
-/hangmanguild -- Play Hangman in a Server! You may also choose your word!
+/hangmanguild -- Play Hangman in a Server! You may also choose your word! 
 
 /jokes -- get a joke form teh bot
 
 /rps -- play rock paper scissors
 
-/blackjack - Play a blackjack game with others!!!
+/blackjack - Play a blackjack game with others!!! -> Gives coins
 
 /twentyquestions -- You have 20 questions to guess a word!!!
 
 /stats -- view stats
 
-/daily -- Claim daily!
+/daily -- Get daily quests!
 
-/unoreverse - reverse (:<
-
-/secret -- ???
+/dailycoins -- Get coins daily!
 
 /addme -- Add the bot!
 
@@ -41,6 +39,9 @@ GIFs are always Anime excpet if said otherwise.
 
 # Current commands:
 
+/unoreverse - reverse (:<
+
+/secret -- ???
 
 /sixseven -- 67 gif - random
 
