@@ -13,7 +13,7 @@ GIFs are always Anime excpet if said otherwise.
 
 /ai? -- Command name not sure -- convert text to an AI generated anime picture!
 
-# Featured Commands:
+# Current Commands:
 
 /dashboard -- Ban, Timeout or Remove coins from player
 
