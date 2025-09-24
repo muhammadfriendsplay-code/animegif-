@@ -15,6 +15,8 @@ N/A D:
 
 # Current Commands:
 
+/gifhelp -- Get help on what GIFs you can use!
+
 /waifu [prompt] -- Convert text to an AI generated anime picture!
 
 /dashboard -- Ban, Timeout or Remove coins from player
@@ -44,8 +46,6 @@ N/A D:
 /addme -- Add the bot!
 
 /repo -- Get the link to this repo!!!
-
-
 
 /gif [choice] -- Send a GIF from the chosen options!
 
