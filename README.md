@@ -9,7 +9,7 @@ Have a fun bot that can send anime gifs and play games such as hangman! Can also
 GIFs are always Anime excpet if said otherwise.
 
 
-Upcoming:
+# Upcoming:
 
 /ai? -- Command name not sure -- convert text to an AI generated anime picture!
 
