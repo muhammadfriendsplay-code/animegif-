@@ -11,9 +11,11 @@ GIFs are always Anime excpet if said otherwise.
 
 # Upcoming:
 
-/ai? -- Command name not sure -- convert text to an AI generated anime picture!
+N/A D:
 
 # Current Commands:
+
+/waifu [prompt] -- Convert text to an AI generated anime picture!
 
 /dashboard -- Ban, Timeout or Remove coins from player
 
