@@ -9,11 +9,17 @@ Have a fun bot that can send anime gifs and play games such as hangman! Can also
 GIFs are always Anime excpet if said otherwise.
 
 
+# USEFULL
+
+/help -- Get started
+
 # Upcoming:
 
 N/A D:
 
 # Current Commands:
+
+/support -- Get the link to the SUPPORT/SUGGESTION only disocrd server
 
 /gifhelp -- Get help on what GIFs you can use!
 
