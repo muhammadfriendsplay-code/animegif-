@@ -17,13 +17,18 @@ GIFs are always Anime excpet if said otherwise.
 
 N/A D:
 
+# ATTENTION
+
+/waifu [prompt] -- Convert text to an AI generated anime picture!
+
+^^^ This command might not always work and may crash as it not running on powerful instances, sorry...
+
 # Current Commands:
 
 /support -- Get the link to the SUPPORT/SUGGESTION only disocrd server
 
 /gifhelp -- Get help on what GIFs you can use!
 
-/waifu [prompt] -- Convert text to an AI generated anime picture!
 
 /dashboard -- Ban, Timeout or Remove coins from player
 
