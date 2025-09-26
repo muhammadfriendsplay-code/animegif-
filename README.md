@@ -9,6 +9,14 @@ Have a fun bot that can send anime gifs and play games such as hangman! Can also
 GIFs are always Anime excpet if said otherwise.
 
 
+
+# ALERT
+
+## THIS BOT HAS BEEN BOMBED (EVERY FILE HAS BEEN DELETED) RECOVERY MAY TAKE TIME SORRY
+
+# ALERT ^
+
+
 # USEFULL
 
 /help -- Get started
